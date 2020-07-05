@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "from": "Bart",
+    "text": "Welcome to CYF chat system!"
+  },
+  {
+    "id": 1,
+    "from": "Neill",
+    "text": "hi CYF!"
+  },
+  {
+    "id": 2,
+    "from": "Bani",
+    "text": "First Post to the server!"
+  },
+  {
+    "id": 3,
+    "from": "Yohannes",
+    "text": "You are so cool"
+  },
+  {
+    "id": 4,
+    "from": "Afshin",
+    "text": "Cheers mate!"
+  },
+  {
+    "from": "someone",
+    "text": "Something",
+    "id": 1593712635235
+  },
+  {
+    "from": "another",
+    "text": "another thing",
+    "id": 1593712648633
+  },
+  {
+    "from": "should be sixth",
+    "text": "and a message",
+    "id": 1593712667781
+  },
+  {
+    "from": "I am seven",
+    "text": "cool",
+    "id": 1593712686100
+  },
+  {
+    "from": "where",
+    "text": "cold",
+    "id": 1593712697458
+  },
+  {
+    "from": "last",
+    "text": "last message",
+    "id": 1593712844786
+  }
+]
